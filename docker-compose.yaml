@@ -1,0 +1,5 @@
+services:
+  campbell:
+    image: busybox
+    ports:
+    - 8501:8501
